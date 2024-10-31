@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\Ödev-Soru7\bin\Debug\net8.0\Ödev-Soru7.exe
+C:\Users\yusuf\source\repos\Ödev-Soru7\bin\Debug\net8.0\Ödev-Soru7.deps.json
+C:\Users\yusuf\source\repos\Ödev-Soru7\bin\Debug\net8.0\Ödev-Soru7.runtimeconfig.json
+C:\Users\yusuf\source\repos\Ödev-Soru7\bin\Debug\net8.0\Ödev-Soru7.dll
+C:\Users\yusuf\source\repos\Ödev-Soru7\bin\Debug\net8.0\Ödev-Soru7.pdb
+C:\Users\yusuf\source\repos\Ödev-Soru7\obj\Debug\net8.0\Ödev-Soru7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\Ödev-Soru7\obj\Debug\net8.0\Ödev-Soru7.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\Ödev-Soru7\obj\Debug\net8.0\Ödev-Soru7.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\Ödev-Soru7\obj\Debug\net8.0\Ödev-Soru7.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\Ödev-Soru7\obj\Debug\net8.0\Ödev-Soru7.dll
+C:\Users\yusuf\source\repos\Ödev-Soru7\obj\Debug\net8.0\refint\Ödev-Soru7.dll
+C:\Users\yusuf\source\repos\Ödev-Soru7\obj\Debug\net8.0\Ödev-Soru7.pdb
+C:\Users\yusuf\source\repos\Ödev-Soru7\obj\Debug\net8.0\Ödev-Soru7.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\Ödev-Soru7\obj\Debug\net8.0\ref\Ödev-Soru7.dll
